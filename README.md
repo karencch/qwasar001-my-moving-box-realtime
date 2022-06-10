@@ -1,2 +1,2 @@
 # Qwasar
-I will save all my Qwasar projects here
+first project in qwasar: to move a box to a corner
